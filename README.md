@@ -3,10 +3,10 @@
 ## Video Demonstration
 
 **Demo 1**  
-[Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/Iterative%20Optimization_KITTI_00.mp4)
+[Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/KITTI_00_1.mp4)
 
 **Demo 2**  
-[Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/Residual-Weighting_KITTI_00.mp4)
+[Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/KITTI_00_2.mp4)
 
 ## Release Plan
 
