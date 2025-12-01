@@ -6,6 +6,7 @@
 
 **Demo 1**  
 [Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/KITTI_00_1.mp4)
+![](/video/KITTI_00_1.mp4)
 
 **Demo 2**  
 [Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/KITTI_00_2.mp4)
