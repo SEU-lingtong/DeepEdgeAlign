@@ -5,11 +5,9 @@
 ## Video Demonstration
 
 **Demo 1**  
-[Click to view the demo video](https://github.com/SEU-lingtong/DeepEdgeAlign/blob/main/video/KITTI_00_1.mp4)
-
-<video width="640" height="480" controls>
-  <source src="/video/KITTI_00_1.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。请点击下方链接查看视频。
+<video width="700" controls>
+  <source src="https://github.com/SEU-lingtong/DeepEdgeAlign/raw/main/video/KITTI_00_1.mp4" type="video/mp4">
+  抱歉，您的浏览器不支持内嵌视频播放。
 </video>
 
 **Demo 2**  
